@@ -22,24 +22,14 @@ Welcome to the Job Portal Project repository! This project is a web-based job po
 
 To get started with the Job Portal Project:
 
-1. Clone this repository: `git clone https://github.com/Md-SabbirHosen/Job-Portal-Project-PHP-MySql-CSS.git`
+1. Clone this repository: `git clone https://github.com/AllakaBhanu/job-connect-portal
 2. Set up a local web server environment (e.g., XAMPP).
 3. Import the JobPortal.sql file.
 4. Setup the tcpdf library for pdf report generation. (For setup you can follow this video: https://youtu.be/Q1iGTtMspho?si=f7XJ_I8wEJxiiaJb)
-5. For Admin credentials:
-    -Username: adminsabbir@gmail.com
-    -Password: admin5678
-7. Access the application through your web browser.
+5. Access the application through your web browser.
 
 
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For questions or support, contact me at mdsabbirhosen926@gmail.com.
 
 Enjoy exploring the Job Portal Project!
 
